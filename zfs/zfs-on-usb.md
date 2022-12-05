@@ -1,7 +1,8 @@
 # ZFS on USB
 
 It's slow... But that's the USB doing it I think. Otherwise it seems
-to work.
+to work. It's still faster than Gigabit ethernet though. So that's
+something.
 
 If you want to turn off the USB you need to do an export on all the
 zfs pools. 
